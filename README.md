@@ -15,7 +15,7 @@
 - cd ~/ros2_ws
 - colcon build --symlink-install
 - source install/setup.bash
-## rviz2
+### rviz2
 - Set Fixed Frame → odom
 - Path (/smoothed_path)
 - Path (/actual_path)

@@ -9,8 +9,8 @@
 - Dependencies: `numpy`
 
 ### Clone the package into your ROS 2 workspace
-cd ~/rosx_ws/src
-git clone https://github.com/AshuGITHUBtosh/Path-Smoothing-and-Trajectory-Control.git
+- cd ~/rosx_ws/src
+- git clone https://github.com/AshuGITHUBtosh/Path-Smoothing-and-Trajectory-Control.git
 ### Build the package and source the workspace
 - cd ~/ros2_ws
 - colcon build --symlink-install

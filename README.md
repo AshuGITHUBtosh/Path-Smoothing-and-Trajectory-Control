@@ -5,6 +5,7 @@
 #### Prerequisites
 - ROS 2 Humble (Ubuntu 22.04 recommended)
 - `colcon` build system
+- gazebo
 - Python 3.10+
 - Dependencies: `numpy`
 

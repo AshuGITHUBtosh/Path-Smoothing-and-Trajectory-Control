@@ -8,26 +8,19 @@
 - Python 3.10+
 - Dependencies: `numpy`
 
-```bash```
-sudo apt update
-sudo apt install python3-colcon-common-extensions python3-pip -y
-pip3 install numpy
-
-### Clone or copy this package into your ROS 2 workspace
-cd ~/ros2_ws/src
-git clone <this-repo-url> robot_nav_assignment
-
-### Build the package
-cd ~/ros2_ws
-colcon build --symlink-install
-
-### Source the workspace
-source install/setup.bash
+### Clone the package into your ROS 2 workspace
+cd ~/rosx_ws/src
+git clone https://github.com/AshuGITHUBtosh/Path-Smoothing-and-Trajectory-Control.git
+### Build the package and source the workspace
+- cd ~/ros2_ws
+- colcon build --symlink-install
+- source install/setup.bash
 ## rviz2
 - Set Fixed Frame → odom
 - Path (/smoothed_path)
 - Path (/actual_path)
 - Odometry (/odom)
+- TF
 
 ### Launch simulator + path generator + controller
 ros2 launch robot_nav_assignment nav_demo.launch.py

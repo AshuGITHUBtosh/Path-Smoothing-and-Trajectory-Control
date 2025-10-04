@@ -1,0 +1,5 @@
+[console_scripts]
+controller = robot_nav_assignment.controller_node:main
+path_server = robot_nav_assignment.path_server:main
+simulator = robot_nav_assignment.simulator_node:main
+

@@ -1,0 +1,2 @@
+Invoking command in '/home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment': /usr/bin/cmake /home/ashutosh/Desktop/rosx_ws/src/robot_nav_assignment -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment
+Invoked command in '/home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment' returned '1': /usr/bin/cmake /home/ashutosh/Desktop/rosx_ws/src/robot_nav_assignment -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment

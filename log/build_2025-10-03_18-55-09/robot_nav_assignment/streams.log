@@ -1,0 +1,4 @@
+[0.016s] Invoking command in '/home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment': /usr/bin/cmake /home/ashutosh/Desktop/rosx_ws/src/robot_nav_assignment -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment
+[0.046s] [0mCMake Error: The source directory "/home/ashutosh/Desktop/rosx_ws/src/robot_nav_assignment" does not appear to contain CMakeLists.txt.
+[0.047s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.050s] Invoked command in '/home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment' returned '1': /usr/bin/cmake /home/ashutosh/Desktop/rosx_ws/src/robot_nav_assignment -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment

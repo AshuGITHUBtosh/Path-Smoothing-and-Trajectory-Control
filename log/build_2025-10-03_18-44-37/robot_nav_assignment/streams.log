@@ -1,0 +1,33 @@
+[0.832s] Invoking command in '/home/ashutosh/Desktop/rosx_ws/src/robot_nav_assignment': PYTHONPATH=/home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_nav_assignment build --build-base /home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/build install --record /home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/install.log --single-version-externally-managed install_data
+[1.102s] running egg_info
+[1.102s] creating ../../build/robot_nav_assignment/robot_nav_assignment.egg-info
+[1.103s] writing ../../build/robot_nav_assignment/robot_nav_assignment.egg-info/PKG-INFO
+[1.103s] writing dependency_links to ../../build/robot_nav_assignment/robot_nav_assignment.egg-info/dependency_links.txt
+[1.103s] writing entry points to ../../build/robot_nav_assignment/robot_nav_assignment.egg-info/entry_points.txt
+[1.103s] writing requirements to ../../build/robot_nav_assignment/robot_nav_assignment.egg-info/requires.txt
+[1.103s] writing top-level names to ../../build/robot_nav_assignment/robot_nav_assignment.egg-info/top_level.txt
+[1.103s] writing manifest file '../../build/robot_nav_assignment/robot_nav_assignment.egg-info/SOURCES.txt'
+[1.105s] reading manifest file '../../build/robot_nav_assignment/robot_nav_assignment.egg-info/SOURCES.txt'
+[1.106s] writing manifest file '../../build/robot_nav_assignment/robot_nav_assignment.egg-info/SOURCES.txt'
+[1.106s] running build
+[1.106s] running build_py
+[1.106s] creating /home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/build
+[1.106s] creating /home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/build/lib
+[1.106s] creating /home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/build/lib/robot_nav_assignment
+[1.106s] copying robot_nav_assignment/__init__.py -> /home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/build/lib/robot_nav_assignment
+[1.107s] running install
+[1.107s] running install_lib
+[1.108s] creating /home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/lib/python3.10/site-packages/robot_nav_assignment
+[1.108s] copying /home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/build/lib/robot_nav_assignment/__init__.py -> /home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/lib/python3.10/site-packages/robot_nav_assignment
+[1.108s] byte-compiling /home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/lib/python3.10/site-packages/robot_nav_assignment/__init__.py to __init__.cpython-310.pyc
+[1.108s] running install_data
+[1.108s] creating /home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/share/ament_index
+[1.108s] creating /home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/share/ament_index/resource_index
+[1.109s] creating /home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/share/ament_index/resource_index/packages
+[1.109s] copying resource/robot_nav_assignment -> /home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/share/ament_index/resource_index/packages
+[1.109s] copying package.xml -> /home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/share/robot_nav_assignment
+[1.109s] running install_egg_info
+[1.110s] Copying ../../build/robot_nav_assignment/robot_nav_assignment.egg-info to /home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/lib/python3.10/site-packages/robot_nav_assignment-0.0.0-py3.10.egg-info
+[1.111s] running install_scripts
+[1.129s] writing list of installed files to '/home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/install.log'
+[1.161s] Invoked command in '/home/ashutosh/Desktop/rosx_ws/src/robot_nav_assignment' returned '0': PYTHONPATH=/home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashutosh/Desktop/rosx_ws/install/robot_nav_assignment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_nav_assignment build --build-base /home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/build install --record /home/ashutosh/Desktop/rosx_ws/build/robot_nav_assignment/install.log --single-version-externally-managed install_data
